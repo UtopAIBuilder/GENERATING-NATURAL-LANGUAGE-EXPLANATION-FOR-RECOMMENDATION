@@ -12,4 +12,4 @@ from reviews, The authors propose a feature-aware attention
 model to implicitly select explanation sentences from reviews
 for model learning, and we further introduce a feature atten-
 tion model to enhance the feature-level personality of the ex-
-planations.
+planations. For details see the report
